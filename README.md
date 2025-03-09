@@ -15,7 +15,7 @@ This is a simple dice rolling application written in Python using the Tkinter li
 3. Run the following command to start the application:
 
 ```python
-python dice.py
+dice.py
 ```
 
 4. The application will open a window with a label and an entry box.
