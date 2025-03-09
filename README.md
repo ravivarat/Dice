@@ -4,8 +4,7 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/tusuii?tab=repositories)
 
 # Simple Dice
-<p align="center">
-<img src="dice.png" width=40% height=40%>
+
 
 This is a simple dice rolling application written in Python using the Tkinter library.
 
